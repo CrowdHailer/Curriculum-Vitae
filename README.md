@@ -17,11 +17,9 @@ Design and Technology [B]
 
 Interests
 
-| -------: | :----------|
-|Technology| developments I have always been interested in engineering projects and read whenever possible
-around current developments in fields that interest me. Recently I have been reading
-up on the Wendelstein 7-X Stellarator and the work by Reaction Engines on their
-SABRE engines.|
+|  | Interests
+| -------: | :---------- |
+| **Technology developments** |  I have always been interested in engineering projects and read whenever possible around current developments in fields that interest me. Recently I have been reading up on the Wendelstein 7-X Stellarator and the work by Reaction Engines on their SABRE engines.|
 
 Outreach
 Activities At school I was part of the Paper-Clip Physics Team in which we where tasked with
