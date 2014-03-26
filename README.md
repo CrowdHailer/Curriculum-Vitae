@@ -1,10 +1,11 @@
 Education
 ---------
+
 ### Heriot Watt University, *2011–2012*
-Waveguide Integrated Superconducting Nanowire Single Photon Detectors
+> Waveguide Integrated Superconducting Nanowire Single Photon Detectors
 
 ### Oxford University, *2006–2010*
-Physics MPhys, 1st Class
+> Physics MPhys, 1st Class
 
 ### Colyton Grammar School, *1999–2006*
  
@@ -16,7 +17,9 @@ Physics MPhys, 1st Class
 > Mathematics [A*], Physics [A*], Chemistry [A*], Geography [A*], Biology [A], Religious education [A], English Literature [A], German [A], French [B], English [B], Design and Technology [B]
 
 
-
+| **Practical skills** |  |
+| -------: | :---------- |
+| Experimental | I have worked cryogenics, vacuum systems, microwave electronics and high current applications. I have also received training for the safe handling of gas cylinders. |
 
 | **Interests** |  |
 | -------: | :---------- |
