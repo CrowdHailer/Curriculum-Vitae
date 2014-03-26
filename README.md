@@ -17,7 +17,7 @@ Design and Technology [B]
 
 Interests
 
-|  | Interests
+| a | Interests
 | -------: | :---------- |
 | **Technology developments** |  I have always been interested in engineering projects and read whenever possible around current developments in fields that interest me. Recently I have been reading up on the Wendelstein 7-X Stellarator and the work by Reaction Engines on their SABRE engines.|
 
