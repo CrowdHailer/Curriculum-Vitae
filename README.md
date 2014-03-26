@@ -1,13 +1,13 @@
 Education
 ---------
 
-### Heriot Watt University, *2011–2012*
+##### Heriot Watt University, *2011–2012*
 > Waveguide Integrated Superconducting Nanowire Single Photon Detectors
 
-### Oxford University, *2006–2010*
+##### Oxford University, *2006–2010*
 > Physics MPhys, 1st Class
 
-### Colyton Grammar School, *1999–2006*
+##### Colyton Grammar School, *1999–2006*
  
 > **A-levels:**  
 > Mathematics [A], Chemistry [A], Physics [A], Further Maths [A]  
