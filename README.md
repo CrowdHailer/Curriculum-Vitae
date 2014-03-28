@@ -9,24 +9,21 @@ Education
 
 ##### Colyton Grammar School, *1999–2006*
  
-> **A-levels:**  
-> Mathematics [A], Chemistry [A], Physics [A], Further Maths [A]  
-> **Advanced Extension Award:**  
-> Mathematics [Merit], Chemistry [Distinction]  
-> **GCSEs**  
-> Mathematics [A*], Physics [A*], Chemistry [A*], Geography [A*], Biology [A], Religious education [A], English Literature [A], German [A], French [B], English [B], Design and Technology [B]
+> **A-levels:** Mathematics [A], Chemistry [A], Physics [A], Further Maths [A]  
+> **Advanced Extension Awards:**  Mathematics [Merit], Chemistry [Distinction]  
+> **GCSEs:** Mathematics [A*], Physics [A*], Chemistry [A*], Geography [A*], Biology [A], Religious education [A], English Literature [A], German [A], French [B], English [B], Design and Technology [B]
 
 
 | **Computer Skills** |  |
 | -------: | :---------- |
-| *Python* | This is the main language I have used in the last 12 months. Nearly every experiment run has required new code to be written. I have also been working to create well documented standard libraries for our equipment to save time in future development. |
-| *Labview* | I learnt Labview during my previous placement at Siemens and was able to implement an effective solution in under three months. |
+| *Python* | This is the main language I used in my year at Heriot Watt. Nearly every experiment run has required new code to be written. I have also been working to create well documented standard libraries for our equipment to save time in future development. |
+| *Labview* | I learnt Labview during placement at Siemens and was able to implement a high frequency data logger in under three months. |
 | *CAD* | I have been designing a new cryostat in Autodesk Inventor Pro for continuing work on my PhD. In addition I have experience with Google Sketchup and DraftSight. |
-| *General* | I am comfortable with Microsoft Windows 98/XP/Vista/7 and using Excel, Word and PowerPoint to present work. In addition I am familiar with document presentation in LATEX. |
+| *LaTeX* | I am familiar with document presentation in LATEX. |
 
 | **Practical skills** |  |
 | -------: | :---------- |
-| Experimental | I have worked cryogenics, vacuum systems, microwave electronics and high current applications. I have also received training for the safe handling of gas cylinders. |
+| *Experimental* | I have worked cryogenics, vacuum systems, microwave electronics and high current applications. I have also received training for the safe handling of gas cylinders. |
 
 | **Interests** |  |
 | -------: | :---------- |
