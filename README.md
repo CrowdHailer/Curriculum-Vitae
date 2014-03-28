@@ -1,15 +1,21 @@
 
-Employment
+Experience
 ----------
 
-**Software Developer, Siemens Magnet Technology, Eynsham, Oxon** *2011–2011*
+##### Projects *2013-current*
+> I have run two successful Kickstarter campaigns for my project to redesign the [London Tube map](http://www.londonlayout.co.uk). During this time I have learnt about SVG graphics and Javascript
+
+##### Maths and Science Tutor, London *2013-current*
+> I have tutored Math, Physics and Chemistry teaching students from GCSE to Degree level. 
+
+##### Software Developer, Siemens Magnet Technology, Eynsham, Oxon *2011–2011*
 > I was placed with the magnet team for the development of a high speed data logger. This system was to monitor up to 40 channels at microsecond resolution. My role was to devise and program algorithms to filter for events on the magnet, saving these and automatically discarding the rest of the raw data. Through this project I became competent with LabView.
 
-**Temporary work, Manpower, Exeter, Devon** *2010*
-I was employed in a number of roles including cleaning at a quarry, assisting a professional photographer and working nights in a Royal Mail sorting office.
+##### Temporary work, Manpower, Exeter, Devon *2010*
+> I was employed in a number of roles including cleaning at a quarry, assisting a professional photographer and working nights in a Royal Mail sorting office.
 
-**Summer Placement, Siemens Magnet Technology, Enysham, Oxon** *2008*
-I was given an independent project to design, build and test an experimental persistent current switch with the aim of investigating current distributions in multi-strand wire. This project taught me a variety of practical skills as well as useful experience working with several people across a large organisation.
+##### Summer Placement, Siemens Magnet Technology, Enysham, Oxon *2008*
+> I was given an independent project to design, build and test an experimental persistent current switch with the aim of investigating current distributions in multi-strand wire. This project taught me a variety of practical skills as well as useful experience working with several people across a large organisation.
 
 Education
 ---------
