@@ -6,10 +6,10 @@ Experience
 > I have run two successful Kickstarter campaigns for my project to redesign the [London Tube map](http://www.londonlayout.co.uk). During this time I have learnt about SVG graphics and Javascript
 
 ##### Maths and Science Tutor, London *2013-current*
-> I have tutored Math, Physics and Chemistry teaching students from GCSE to Degree level. 
+> I have tutored Math, Physics and Chemistry to students from GCSE to Degree level. 
 
 ##### Software Developer, Siemens Magnet Technology, Eynsham, Oxon *2011–2011*
-> I was placed with the magnet team for the development of a high speed data logger. This system was to monitor up to 40 channels at microsecond resolution. My role was to devise and program algorithms to filter for events on the magnet, saving these and automatically discarding the rest of the raw data. Through this project I became competent with LabView.
+> I was placed with the magnet team for the development of a high speed data logger. This system was to monitor up to 40 channels at microsecond resolution. My role was to devise and program algorithms to filter for events on the magnet, saving these and automatically discarding the rest of the raw data. Through this project I became competent with LabVIEW.
 
 ##### Temporary work, Manpower, Exeter, Devon *2010*
 > I was employed in a number of roles including cleaning at a quarry, assisting a professional photographer and working nights in a Royal Mail sorting office.
@@ -36,9 +36,9 @@ Education
 | **Computer Skills** |  |
 | -------: | :---------- |
 | *Python* | This is the main language I used in my year at Heriot Watt. Nearly every experiment run has required new code to be written. I have also been working to create well documented standard libraries for our equipment to save time in future development. |
-| *Labview* | I learnt Labview during placement at Siemens and was able to implement a high frequency data logger in under three months. |
+| *LabVIEW* | I learnt LabVIEW during placement at Siemens and was able to implement a high frequency data logger in under three months. |
 | *CAD* | I have been designing a new cryostat in Autodesk Inventor Pro for continuing work on my PhD. In addition I have experience with Google Sketchup and DraftSight. |
-| *LaTeX* | I am familiar with document presentation in LATEX. |
+| *LaTeX* | I am familiar with document presentation in LaTeX. |
 
 | **Practical skills** |  |
 | -------: | :---------- |
