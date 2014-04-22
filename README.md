@@ -20,6 +20,9 @@ Experience
 Education
 ---------
 
+##### Makers Academy, *January - March 2014*
+> Intensive, highly selective course in web development and related technologies. Covering Ruby, Rails, Git and Test Driven Development.
+
 ##### Heriot Watt University, *2011–2012*
 > Waveguide Integrated Superconducting Nanowire Single Photon Detectors
 
@@ -35,6 +38,9 @@ Education
 
 | **Computer Skills** |  |
 | -------: | :---------- |
+| *Ruby*  | As the focus of the Makers Academy course I am capable at developing Ruby applications. I have experience with the Sinatra and Rails Framework and testing with Rspec, Capybara and Cucumber. |
+| *Git* | I use git in all projects as part of an efficient work-flow and am familiar with branching, forking a repo and submitting a pull request. |
+| *JavaScript* | Self taught through working on my own projects I can write high quality code that is test driven using Karma, Jasmine and Grunt. I have worked JQuery, Node and Hammer and many more smaller libraries. |
 | *Python* | This is the main language I used in my year at Heriot Watt. Nearly every experiment run has required new code to be written. I have also been working to create well documented standard libraries for our equipment to save time in future development. |
 | *LabVIEW* | I learnt LabVIEW during placement at Siemens and was able to implement a high frequency data logger in under three months. |
 | *CAD* | I have been designing a new cryostat in Autodesk Inventor Pro for continuing work on my PhD. In addition I have experience with Google Sketchup and DraftSight. |
