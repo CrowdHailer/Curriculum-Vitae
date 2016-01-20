@@ -1,3 +1,11 @@
+# Peter Saxton
+Currently building rich web applications at my company Workshop 14. Previously started a PhD developing components for quantum computers. Left because the real world has a much faster feedback loop. Enjoys working with Ruby, Elixir and JavaScript. p.s. also erlang, Typescript, Python, Haskell, Ocaml, Kotlin, labview, D and scala. Will take any opportunity to get immersed in the Great Outdoors.
+
+- [twitter](https://twitter.com/CrowdHailer)
+- [github](https://github.com/crowdhailer)
+- [blog](http://insights.workshop14.io/)
+
+
 
 Experience
 ----------
