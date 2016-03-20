@@ -64,3 +64,5 @@ Education
 | *Outreach Activities* | At school I was part of the Paper-Clip Physics Team in which we where tasked with presenting an aspect of physics to a panel of scientists and laymen. After doing this I took the same demonstrations to a local preschool and have helped with science demonstrations there on a number of occasions. |
 | *Travel* | I have a great curiosity and love of the world and travelling is a part of this. In 2009 I arranged for myself and seven friends to travel overland to Istanbul. This was a substantial but hugely rewarding logistics task. More recently I travelled alone for several months to a variety of places including South Africa and, my favourite destination so far, Indonesia. |
 
+# Talks
+- Building on Domain Concepts given at LRUG https://skillsmatter.com/skillscasts/7454-building-with-domain-concepts
